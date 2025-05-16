@@ -1,155 +1,96 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Aditya Vyas
-⚡ WELCOME TO MY PROFILE
 <p align="center">
-  <img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/adityavyas01" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Wave"/>
 </p>
+<h1 align="center">Hi, I’m Aditya Vyas 👋</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/adityavyas01" width="160" alt="Aditya Vyas"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/adityavyas01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Quantitative+Trading+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Quant+Trading+Enthusiast;Always+Learning" alt="Typing SVG"/>
   </a>
 </p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=adityavyas01&style=flat-square&color=brightgreen" alt="profile views" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityavyas01&theme=onedark" alt="trophies" />
-  </a>
-</p>
-<img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityavyas01&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityavyas01&theme=chartreuse-dark" alt="streak stats" />
-</p>
-About Me 👨‍💻
 
-🎓 Computer Science student with a passion for building scalable applications
-💻 Full Stack Developer focusing on modern web technologies
-📊 Quantitative Trading Enthusiast exploring algorithmic strategies
-🧪 Currently experimenting with financial data analysis and market prediction models
-🌱 Learning advanced state management and high-frequency trading systems
-🔍 Looking to collaborate on open-source projects and fintech applications
-
-My Tech Stack 🛠️
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  </a>
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
-  </a>
-  <!-- Data Science & Quant -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <!-- Database & Infrastructure -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
-Featured Projects 💻
 <p align="center">
-  <a href="https://github.com/adityavyas01/fullstack-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=fullstack-app&theme=chartreuse-dark" />
+  <img src="https://komarev.com/ghpvc/?username=adityavyas01&style=flat-square&color=brightgreen" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityavyas01&theme=onedark" alt="Trophies"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+Computer Science undergrad passionate about solving complex problems 🚀 Full‑Stack Developer (React, Next.js, Node.js) with a keen interest in quantitative trading strategies and AI/ML applications. Always exploring Rust, Go, and advanced system design. :contentReference[oaicite:7]{index=7}
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary>Click to expand</summary>
+
+**Frontend:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" alt="React"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" width="36" alt="Next.js"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" alt="Tailwind CSS"/>
+
+**Backend:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" alt="Express"/>
+
+**Languages:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" alt="Python"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" alt="TypeScript"/>  
+
+**Data & DevOps:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" alt="PostgreSQL"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/amazonwebservices-original.svg" width="36" alt="AWS"/>
+
+</details> :contentReference[oaicite:8]{index=8}
+
+---
+
+## 🌟 Featured Projects
+<p align="center">
+  <a href="https://github.com/adityavyas01/unsolvedd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=unsolvedd&theme=chartreuse-dark" alt="UnsolvedD"/>
   </a>
-  <a href="https://github.com/adityavyas01/trading-algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=trading-algorithm&theme=chartreuse-dark" />
+  <a href="https://github.com/adityavyas01/Boomer-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=Boomer-Bot&theme=chartreuse-dark" alt="Boomer-Bot"/>
   </a>
-  <a href="https://github.com/adityavyas01/financial-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=financial-analysis&theme=chartreuse-dark" />
+  <a href="https://github.com/adityavyas01/hacki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=hacki&theme=chartreuse-dark" alt="Hacki"/>
   </a>
-  <a href="https://github.com/adityavyas01/data-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=data-visualization&theme=chartreuse-dark" />
-  </a>
+</p> :contentReference[oaicite:9]{index=9}
+
+---
+
+## 🚧 What I’m Learning & 📫 Connect
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🚀 Learning</h4>
+      - Advanced state management (Redux, React Query)  
+      - Algorithmic trading frameworks  
+      - Systems programming (Rust, Go)  
+      - Distributed architectures  
+    </td>
+    <td valign="top">
+      <h4>🔗 Connect</h4>
+      <a href="https://linkedin.com/in/adityavyas01">LinkedIn</a> •  
+      <a href="https://twitter.com/adityavyas01">Twitter</a> •  
+      <a href="https://instagram.com/adityavyas01">Instagram</a>  
+    </td>
+  </tr>
+</table> :contentReference[oaicite:10]{index=10}
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavyas01&theme=chartreuse-dark" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityavyas01&layout=compact&theme=chartreuse-dark" />
-</p>
-What I'm Currently Learning 🚀
-
-🔄 Advanced state management patterns (Redux Toolkit, Zustand)
-📊 Statistical arbitrage and machine learning for market prediction
-⚡ Building high-performance trading systems
-🌐 Serverless architecture and microservices
-
-Connect With Me 🔗
-<h3 align="left">Social Media:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/adityavyas01" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/adityavyas01" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/adityavyas01" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@adityavyas01" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/user/adityavyas01" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-☕ Support my work
-<a href="https://www.buymeacoffee.com/adityavyas01" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Random Dev Quote" />
-</div>
-<div align="center">
-  ⭐️ From <a href="https://github.com/adityavyas01">adityavyas01</a>
-</div>
-<!--
-**adityavyas01/adityavyas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Random Dev Quote"/>
+</p> :contentReference[oaicite:11]{index=11}
