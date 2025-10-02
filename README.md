@@ -1,8 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Aditya Vyas
 ⚡ WELCOME TO MY PROFILE
-<p align="center">
-  <img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/adityavyas01" />
-</p>
+
 <p align="center">
   <a href="https://github.com/adityavyas01">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Quantitative+Trading+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -17,9 +15,7 @@
   </a>
 </p>
 <img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityavyas01&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityavyas01&theme=chartreuse-dark" alt="streak stats" />
-</p>
+
 About Me 👨‍💻
 
 🎓 Computer Science student with a passion for building scalable applications
@@ -33,9 +29,6 @@ My Tech Stack 🛠️
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -65,22 +58,6 @@ My Tech Stack 🛠️
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
-  </a>
-  <!-- Data Science & Quant -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
   <!-- Database & Infrastructure -->
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -97,17 +74,17 @@ My Tech Stack 🛠️
 </p>
 Featured Projects 💻
 <p align="center">
-  <a href="https://github.com/adityavyas01/fullstack-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=fullstack-app&theme=chartreuse-dark" />
+  <a href="https://github.com/adityavyas01/MemeLang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=MemeLang&theme=chartreuse-dark" />
   </a>
-  <a href="https://github.com/adityavyas01/trading-algorithm">
+  <!-- <a href="">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=trading-algorithm&theme=chartreuse-dark" />
+  </a> -->
+  <a href="https://github.com/adityavyas01/Finsetu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=Finsetu&theme=chartreuse-dark" />
   </a>
-  <a href="https://github.com/adityavyas01/financial-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=financial-analysis&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/adityavyas01/data-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=data-visualization&theme=chartreuse-dark" />
+  <a href="https://github.com/adityavyas01/Algo-viz-Major-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityavyas01&repo=Algo-viz-Major-1&theme=chartreuse-dark" />
   </a>
 </p>
 <p align="center">
